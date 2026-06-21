@@ -12,7 +12,7 @@ Each project is organized as a standalone artifact with a clear problem statemen
 
 ## Portfolio Standard
 
-Each project is written to be reviewable by recruiters, hiring managers, and technical reviewers. Project folders should include:
+Each project is organized to make the problem, approach, and results easy to understand. Project folders should include:
 
 - Clear README
 - Source code or notebook
