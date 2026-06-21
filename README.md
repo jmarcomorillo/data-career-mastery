@@ -9,6 +9,7 @@ Each project is organized as a standalone artifact with a clear problem statemen
 | Project | Focus | Link |
 |---|---|---|
 | Recall: Python Profile Tracker | Python fundamentals, lists, dictionaries, loops, formatted output | [View project](projects/recall-python-profile-tracker) |
+| Python Summary Statistics Toolkit | Functions, reusable logic, dataset summaries, empty-list handling | [View project](projects/python-summary-statistics-toolkit) |
 
 ## Portfolio Standard
 
