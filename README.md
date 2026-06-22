@@ -12,6 +12,7 @@ Each project is organized as a standalone artifact with a clear problem statemen
 | Python Summary Statistics Toolkit | Functions, reusable logic, dataset summaries, empty-list handling | [View project](projects/python-summary-statistics-toolkit) |
 | Python Budget Category Analyzer | Loops, list-of-dictionaries records, running totals, budget checks | [View project](projects/python-budget-category-analyzer) |
 | Python Dataset Summary Class | Object-oriented programming, classes, methods, reusable dataset summaries | [View project](projects/python-dataset-summary-class) |
+| Python Data Analysis Toolkit | Reusable Python toolkit applied to Philippine data salary records | [View project](projects/python-data-analysis-toolkit) |
 
 ## Portfolio Standard
 
